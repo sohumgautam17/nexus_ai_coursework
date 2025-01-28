@@ -31,10 +31,9 @@ pytest>=6.2.0  # for testing
 black>=21.0.0  # for code formatting
 python-dotenv>=0.19.0  # for environment variables
 
-# Development Tools
-jupyterlab>=3.0.0
-ipywidgets>=7.6.0
-
 # PyTorch Ecosystem
 pytorch-lightning>=2.0.0  # for structured PyTorch training
 torchmetrics>=0.11.0  # for model metrics
+
+# Natural Language Processing 
+nltk>=3.9.1
